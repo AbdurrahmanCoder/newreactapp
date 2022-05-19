@@ -1,0 +1,26 @@
+.image
+
+
+
+{
+ 
+
+background-image: url("https://cdnb.artstation.com/p/assets/images/images/033/136/053/original/eiji-productions-2b3kids-8x.gif?1608539041");
+
+
+background-position: center;
+background-size: cover;
+  width: 150px;
+height: 150px;
+ 
+}
+
+.moversContainer
+
+
+{
+width: 100vw;
+height:  100vh;
+/* background-color: aqua; */
+
+}

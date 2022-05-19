@@ -20,6 +20,9 @@ const Selectors = () => {
         <div
           onClick={() => {
             setChoice("square1");
+
+
+            
           }}
           className={choice === "square1" ? "selGreen" : "selOrange"}
         ></div>

@@ -1,0 +1,43 @@
+.Menu{
+    background-color: rgb(10, 172, 77);
+ 
+    padding:20px;
+border: 1px solid black;
+    width: 600px;
+ }
+
+.MainContent
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+gap:20px;
+}
+
+
+#coloring:hover
+{
+    transform: scale(1.1);
+
+}
+
+#coloring
+{
+
+
+
+    border: 2px solid black;
+ }
+
+
+.products
+
+{
+    background-color: rgb(107, 223, 39);
+ 
+ border: 1px solid black;
+ 
+
+
+}
