@@ -1,0 +1,32 @@
+.HeaderClass
+
+
+
+{
+background-color: rgba(116, 21, 224, 0.836);
+display: flex;
+
+}
+
+.LINKS 
+ 
+
+{
+
+
+    color: rgb(138, 135, 135);
+    padding: 10px;
+ text-decoration: none;
+display: flex;
+
+}
+
+.LINKS:hover
+{
+color: black;
+background-color: rgb(164, 141, 247);
+
+
+
+}
+ 
