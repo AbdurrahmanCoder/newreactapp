@@ -1,6 +1,7 @@
- 
+  
 import React from "react";
  
+import Zodo from "../Zodo/index.js"
 import {useState} from "react";
 import { Link } from "react-router-dom";
 import './style.css'
@@ -76,7 +77,7 @@ const Selectors = () => {
 
 
 
-
+      <Zodo/>
 
  
 
